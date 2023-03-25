@@ -20,15 +20,7 @@
   <body>
     <section id="hero">
       <header>
-        <div class="nav-toggle">
-          <p>Menu</p>
-          <span></span>
-        </div>
-        <ul class="nav">
-          <li><a href="index.html">Home</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#contact">Contact</a></li>
-        </ul>
+      
       </header>
       <div class="wrapper">
         <div class="welcome">
@@ -189,6 +181,6 @@
     <script>
       AOS.init();
     </script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
   </body>
 </html>
+
